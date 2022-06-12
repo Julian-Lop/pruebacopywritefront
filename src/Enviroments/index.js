@@ -1,0 +1,1 @@
+export const  PORT = process.env.NODE_ENV === 'production' ? 'http://localhost:3001/' : 'https://back-prueba-copywrite.herokuapp.com/'
